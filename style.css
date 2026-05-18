@@ -1,0 +1,53 @@
+* {
+    font-size: 16px;
+    font-size: 400;
+  }
+  body  {
+    background-color:lightgray;
+    color: black;
+     }
+     h1 {
+        font-size: 32px;
+ color : blue;
+ p {
+    color:bisque;
+    font-size: 15px; }
+    .student-name {
+        color: red;
+        font-size: 22px;
+        color:burlywood;
+        font-weight:bold;
+        .student-school {
+            color: green;}
+    .student-id {
+        color: purple;  
+        font-size: 13px; }
+        .stat-value {
+            color: orange;
+            font-size: 18px;
+            font-weight: bold;}
+            .stat-label {
+                color: teal;
+                font-size: 13px; }
+                .stat-card {
+                    background-color: red;
+                    
+                    color: black; }
+                    
+                    color: black;}
+                    h2,
+                    h3 {
+                        color: darkblue;
+                        font-size: 24px;
+                        }
+
+
+
+                
+
+            
+        
+    }
+
+   
+    
